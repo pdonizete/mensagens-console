@@ -1,0 +1,4 @@
+como usar:
+1) tenha o python instalado
+2) digite o comando:
+python mensagem.py
